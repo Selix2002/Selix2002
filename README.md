@@ -72,6 +72,6 @@ Algoritmo paralelo con MPI desplegado en un cluster Linux de 7 nodos ARM heterog
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A1n-mu%C3%B1oz-654924424/)
 [![Email](https://img.shields.io/badge/sebamunoz2021@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sebamunoz2021@gmail.com)
 [![Ubicación](https://img.shields.io/badge/Punta%20Arenas%2C%20Chile-0078D4?style=flat&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Punta+Arenas,Chile)
